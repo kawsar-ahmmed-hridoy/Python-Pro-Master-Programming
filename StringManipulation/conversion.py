@@ -1,0 +1,10 @@
+str = "The name of it is HRGJHV"
+str1 = str.upper()
+str2 = str.lower()
+str3 = str.title()
+str4 = str.capitalize()
+print(str)
+print(str1)
+print(str2)
+print(str3)
+print(str4)
